@@ -343,7 +343,6 @@ body {
 
 .crew .list {
   display: flex;
-  border: solid red;
 }
 
 .crew .list .item:not(:last-child) {
